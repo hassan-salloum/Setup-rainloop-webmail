@@ -1,0 +1,2 @@
+# rainloop-webmail
+HOW TO BUILD YOUR OWN MAIL SERVER ON UBUNTU
