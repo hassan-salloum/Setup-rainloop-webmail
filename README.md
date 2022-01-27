@@ -10,7 +10,7 @@ This is a simple tutorial helping your to implement your own mail server on an u
 - WEB MAIL = rainloop
 
 ### Security layers
-- SPF & DKIM with Postfix on Debian Server
-- enable-https-nginx
-- nginx-redirect-http-to-https
+- Setup SPF & DKIM with POSTFIX
+- Enable https on nginx
+- Redirect-http-to-https for Nginx
 - INSTALL WAF (NGINX ModeSecurity)
