@@ -13,4 +13,4 @@ This is a simple tutorial helping your to implement your own mail server on an u
 - Setup SPF & DKIM with POSTFIX
 - Enable https on nginx
 - Redirect-http-to-https for Nginx
-- INSTALL WAF (NGINX ModeSecurity)
+- INSTALL WAF for NGINX = NGINX ModeSecurity
